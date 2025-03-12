@@ -2,7 +2,6 @@
 <h3 align="center">A passionate web developer</h3>
 
 - 🌎 I am from Pune, India.
-- 📧 You can contact me at [omkarmali51@gmail.com](mailto:omkarmali51@gmail.com) 
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
