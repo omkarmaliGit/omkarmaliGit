@@ -1,14 +1,12 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Omkar</h1>
-<h3 align="center">A passionate Engineer from India</h3>
 
 <br>
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&pause=1000&center=true&random=true&width=435&lines=Web+Developer;Full+Stack+Developer" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&pause=1000&center=true&random=true&width=435&lines=A+passionate+Engineer+from+India;Web+Developer;Full+Stack+Developer" alt="Typing SVG" /></a>
 </p>
 
 <br>
-
 
 - 🌎 I am from Pune, India. 
 - ✍ I am currently working as a mern stack developer.
@@ -17,16 +15,15 @@
 <br>
 
 ### 💬 Let's Connect
-<!-- - 💼 [LinkedIn](#)
-- 🌐 [Portfolio](#) -->
-<!-- - 📫 [Gmail](mailto:omkarmali1215@gmail.com) -->
 
-<p align="center">
   <a href="mailto:omkarmali1215@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-</p>
-
+    <a href="#">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>  <a href="#">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
 
 <br>
 
@@ -36,7 +33,9 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,express,mongo,typescript,tailwind,git,github,postman)](https://skillicons.dev)
+<p align="center">
+ 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongo,typescript,tailwind,git,github,postman,vite,vscode)](https://skillicons.dev)</p>
 <br>
 
 #### **Frontend**
