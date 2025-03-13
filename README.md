@@ -16,12 +16,25 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,express,mongo,typescript,tailwind,git,github,postman)](https://skillicons.dev)
+### 💬 Let's Connect
+<!-- - 💼 [LinkedIn](#)
+- 🌐 [Portfolio](#) -->
+<!-- - 📫 [Gmail](mailto:omkarmali1215@gmail.com) -->
+
+<p align="center">
+  <a href="mailto:omkarmali1215@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech Stack & Tools
+
+<p align="center">[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,express,mongo,typescript,tailwind,git,github,postman)](https://skillicons.dev)</p>
 
 #### **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -57,16 +70,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### 💬 Let's Connect
-<!-- - 💼 [LinkedIn](#)
-- 🌐 [Portfolio](#) -->
-<!-- - 📫 [Gmail](mailto:omkarmali1215@gmail.com) -->
 
-<p align="center">
-  <a href="mailto:omkarmali1215@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
 
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
